@@ -1,8 +1,5 @@
 ### Hey, what's up 👋
 
-<!--
-**JOHGNATAN/JOHGNATAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on HUAWEI
@@ -19,7 +16,20 @@ Junto ao meu grupo NewTomorrow fomos os vencedores do Seeds For The Future 2022 
 
 Um fato legal sobre mim é que eu sou sempre animado e proativo e procuro sempre ajudar o próximo.
 
-- 📫 How to reach me: johgnatanoperacional@gmail.com ...
+- 📫 How to reach me: johgnatanoperacional@gmail.com 
+##
+<div align="center">
+  <a href="">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JOHGNATAN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOHGNATAN&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+##
+ <div align="center">
+  <a href="https://www.instagram.com/johgnatan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:johgnatanoperacional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/johnatan-ezequiel-6321b51ba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   
+ ##
 
 
--->
