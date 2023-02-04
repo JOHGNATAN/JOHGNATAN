@@ -1,7 +1,5 @@
 ### Hey, what's up 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on HUAWEI
 - 🌱 Analysis and system Development
 
