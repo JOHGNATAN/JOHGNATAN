@@ -28,6 +28,7 @@ Um fato legal sobre mim é que eu sou sempre animado e proativo e procuro sempre
   <a href = "mailto:johgnatanoperacional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/johnatan-ezequiel-6321b51ba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
+   
  ##
 
 
