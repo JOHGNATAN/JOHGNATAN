@@ -27,7 +27,7 @@ Um fato legal sobre mim é que eu sou sempre animado e proativo e procuro sempre
   <img align="center" alt="Johg-Ts" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Johg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Johg-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Johg-Csharp" height="30" width="40"  
+  
 </div>
   
 ##
