@@ -14,7 +14,7 @@ Junto ao meu grupo NewTomorrow fomos os vencedores do Seeds For The Future 2022 
 
 Um fato legal sobre mim é que eu sou sempre animado e proativo e procuro sempre ajudar o próximo.
 
-- 📫 How to reach me: johgnatanoperacional@gmail.com 
+- 📫 E-mail: johgnatanoperacional@gmail.com 
 
 ##
 
