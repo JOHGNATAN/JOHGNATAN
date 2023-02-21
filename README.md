@@ -27,7 +27,7 @@ Um fato legal sobre mim é que eu sou sempre animado e proativo e procuro sempre
 
   <img align="center" alt="Johg-Ts" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Johg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Johg-PoweBI" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://camo.githubusercontent.com/53b1030248fd0f64a5b70e56819acd0c8caadcd302335cbf0e4367a6c1603b65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f77657242492d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d506f7765722532304249266c6f676f436f6c6f723d7768697465)">
+  <img align="center" alt="Johg-PoweBI" height="30" width="40" src="https://camo.githubusercontent.com/53b1030248fd0f64a5b70e56819acd0c8caadcd302335cbf0e4367a6c1603b65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f77657242492d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d506f7765722532304249266c6f676f436f6c6f723d7768697465">
   <img align="center" alt="Johg-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
 </div>
