@@ -24,9 +24,8 @@ Um fato legal sobre mim é que eu sou sempre animado e proativo e procuro sempre
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOHGNATAN&layout=compact&langs_count=7&theme=tokyonight"/>
     
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  <img align="center" alt="Python" height="30" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"/>          
-  <img align="center" alt="MySQL" height="30" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">         
+  <img align="center" alt="MySQL" height="40" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="PoweBI" height="30" width="80" src="https://camo.githubusercontent.com/53b1030248fd0f64a5b70e56819acd0c8caadcd302335cbf0e4367a6c1603b65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f77657242492d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d506f7765722532304249266c6f676f436f6c6f723d7768697465">
   
   
