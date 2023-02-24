@@ -1,6 +1,5 @@
 ### Hey, what's up 👋
 
-- 🔭 I’m currently working on HUAWEI
 - 🌱 Analysis and system Development
 
 Olá, meu nome é Johnatan Ezequiel, tenho 23 anos, sou de Brasília, estudo Análise e Desenvolvimento de sistemas na UDF, escolhi esse curso pois desde de pequeno sempre gostei de tecnologia e sempre tentei descobrir o como as coisas funcionam por trás e como é a sua estrutura. 
