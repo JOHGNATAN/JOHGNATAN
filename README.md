@@ -2,7 +2,7 @@
 
 - 🌱 Analysis and system Development
 
-Olá, meu nome é Johnatan Ezequiel, tenho 23 anos, sou de Brasília, estudo Análise e Desenvolvimento de sistemas na UDF, escolhi esse curso pois desde de pequeno sempre gostei de tecnologia e sempre tentei descobrir o como as coisas funcionam por trás e como é a sua estrutura. 
+Olá, meu nome é Johnatan Ezequiel, tenho 25 anos, sou de Brasília, estudo Análise e Desenvolvimento de sistemas na UDF, escolhi esse curso pois desde de pequeno sempre gostei de tecnologia e sempre tentei descobrir o como as coisas funcionam por trás e como é a sua estrutura. 
 Outro ponto é que no mercado possui várias oportunidades que me permitem trabalhar no conforto de casa, assim posso me poupar do estresse diário de pegar trânsito e podendo passar mais tempo de qualidade com minha família.
 
 Nos tempos livre eu gosto de jogar futebol com os amigos, ir ao cinema e estudar...
