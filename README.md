@@ -1,17 +1,10 @@
 ### Hey, what's up 👋
 
-- 🌱 Analysis and system Development
+Olá! Sou um entusiasta da tecnologia com uma paixão por enfrentar desafios e encontrar soluções criativas para problemas complexos. Com conhecimentos sólidos em Python, Banco de dados relacional e não relacional, AWS e gerenciamento de projetos, tenho experiência em entregar resultados excepcionais através da combinação de habilidades técnicas e estratégicas.
 
-Olá, meu nome é Johnatan Ezequiel, tenho 25 anos, sou de Brasília, estudo Análise e Desenvolvimento de sistemas na UDF, escolhi esse curso pois desde de pequeno sempre gostei de tecnologia e sempre tentei descobrir o como as coisas funcionam por trás e como é a sua estrutura. 
-Outro ponto é que no mercado possui várias oportunidades que me permitem trabalhar no conforto de casa, assim posso me poupar do estresse diário de pegar trânsito e podendo passar mais tempo de qualidade com minha família.
+Minha trajetória inclui uma vasta experiência em gerenciamento de projetos e controle de qualidade, onde sempre me esforço para garantir que os objetivos sejam alcançados com excelência. Adoro explorar novas tecnologias e metodologias para aprimorar processos e trazer inovação para as equipes com as quais trabalho.
 
-Nos tempos livre eu gosto de jogar futebol com os amigos, ir ao cinema e estudar...
-
-Na minha ultima experiência profissional, eu participei dos projetos 5G do Brasil inclusive projetos para a presidência, criação de dashboards para acompanhamentos de meta e visualização de Cockpit.
-
-Junto ao meu grupo NewTomorrow fomos os vencedores do Seeds For The Future 2022 com o projeto "TECH4GOOD" que é um programa promovido pela HUAWEI em parceria com a UNESCO e tive a oportunidade de ir para México participar do LAC ICT Talent Summit 2022 - México.
-
-Um fato legal sobre mim é que eu sou sempre animado e proativo e procuro sempre ajudar o próximo.
+Sou movido por um desejo constante de aprender e crescer profissionalmente. Acredito que o aprendizado contínuo e a adaptação são essenciais para o sucesso em um mundo em rápida evolução. Estou sempre em busca de oportunidades para contribuir com o sucesso da equipe e da organização, seja através de melhorias incrementais ou grandes inovações.
 
 - 📫 E-mail: johgnatanoperacional@gmail.com 
 
