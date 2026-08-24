@@ -2,7 +2,7 @@
 <h3 align="center">Data Engineer | Databricks • Spark • PySpark • SQL • Python</h3>
 
 <p align="center">
-  Engenheiro de Dados responsável pela construção e manutenção de pipelines de dados no ecossistema Azure Databricks com foco em garantir qualidade de dados, governança e escalabilidade em todas as etapas do processo.
+  Engenheiro de Dados responsável pela construção e manutenção de pipelines de dados no ecossistema Azure Databricks, com foco em garantir qualidade de dados, governança e escalabilidade em todas as etapas do processo, além de trazer transparência em relação aos custos da plataforma Databricks.
 </p>
 
 ---
