@@ -2,7 +2,7 @@
 <h3 align="center">Data Engineer | Databricks • Spark • PySpark • SQL • Python</h3>
 
 <p align="center">
-  Construo pipelines de dados escaláveis, arquiteturas Lakehouse e automações de deploy no Databricks.
+  Engenheiro de Dados responsável pela construção e manutenção de pipelines de dados no ecossistema Azure Databricks com foco em garantir qualidade de dados, governança e escalabilidade em todas as etapas do processo.
 </p>
 
 ---
