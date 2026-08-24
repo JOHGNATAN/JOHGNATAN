@@ -28,6 +28,25 @@
 
 ---
 
+## Competências Técnicas
+
+| Categoria | Tecnologias |
+|---|---|
+| Cloud & Plataforma | Azure Databricks |
+| Processamento de Dados | PySpark, Kafka |
+| Bancos de Dados | SQL |
+| Linguagens | Python |
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+---
+
 ### 📊 GitHub Stats
 
 <p align="left">
