@@ -1,35 +1,49 @@
-### Hey, what's up 👋
+<h1 align="center">Olá, eu sou o Johnatan 👋</h1>
+<h3 align="center">Data Engineer | Databricks • Spark • PySpark • SQL • Python</h3>
 
-Olá! Sou um entusiasta da tecnologia com uma paixão por enfrentar desafios e encontrar soluções criativas para problemas complexos. Com conhecimentos sólidos em Python, Banco de dados relacional e não relacional, AWS e gerenciamento de projetos, tenho experiência em entregar resultados excepcionais através da combinação de habilidades técnicas e estratégicas.
+<p align="center">
+  Construo pipelines de dados escaláveis, arquiteturas Lakehouse e automações de deploy no Databricks.
+</p>
 
-Minha trajetória inclui uma vasta experiência em gerenciamento de projetos e controle de qualidade, onde sempre me esforço para garantir que os objetivos sejam alcançados com excelência. Adoro explorar novas tecnologias e metodologias para aprimorar processos e trazer inovação para as equipes com as quais trabalho.
+---
 
-Sou movido por um desejo constante de aprender e crescer profissionalmente. Acredito que o aprendizado contínuo e a adaptação são essenciais para o sucesso em um mundo em rápida evolução. Estou sempre em busca de oportunidades para contribuir com o sucesso da equipe e da organização, seja através de melhorias incrementais ou grandes inovações.
+### 🚀 Sobre mim
 
-- 📫 E-mail: johgnatanoperacional@gmail.com 
+- 🔭 Atualmente trabalhando com **Azure Databricks**, construindo e mantendo pipelines de dados
+- 🛠️ Stack principal: `Azure Databricks` `PySpark` `SQL` `Python`
+- 📈 Foco em pipelines de dados confiáveis e arquitetura Lakehouse
+- 💬 Aberto a trocar ideia sobre Data Engineering, Databricks e Cloud
 
-##
+---
 
-<div align="center">
-  <a href="">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JOHGNATAN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOHGNATAN&layout=compact&langs_count=7&theme=tokyonight"/>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">         
-  <img align="center" alt="MySQL" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  
-</div>
-  
+### 🧰 Stack
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-##
- <div align="center">
-  <a href="https://www.instagram.com/johgnatan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:johgnatanoperacional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/johnatan-ezequiel-6321b51ba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   
-   
- ##
+---
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JOHGNATAN&show_icons=true&theme=default&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOHGNATAN&layout=compact&hide_border=true"/>
+</p>
+
+---
+
+### 📫 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/johnatan-ezequiel-6321b51ba/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:johgnatanoperacional@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
